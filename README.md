@@ -8,7 +8,7 @@
 
 </div>
 
-maths undergrad and 42 school student in paris.
+maths and 42 school student in paris.
 
 **building**
 
