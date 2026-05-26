@@ -2,26 +2,28 @@
 
 # kabylesystem
 
-`e/acc · builder · vibe coder`
+`e/acc · 42 · vibe coder`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=DC143C&center=true&vCenter=true&width=560&lines=I+direct+AI+agents%2C+I+don%27t+type+code;Building+a+multi-pillar+automated+revenue+system" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=DC143C&center=true&vCenter=true&width=560&lines=I+write+C+by+hand.+I+build+with+AI.;42+School+student+in+Paris" alt="" />
 
 </div>
 
 ---
 
-Entrepreneur and [42 School](https://42.fr) student in Paris, building a multi-pillar automated revenue system. I direct AI agents instead of writing code by hand.
+42 School student in Paris. I love writing code by hand — C, low-level, the whole 42 cursus. On the side I'm deep into AI and everything around it, building products with it to make a living.
 
-**Currently building**
+**Writing by hand**
+
+42 cursus, in C — [fract-ol](https://github.com/kabylesystem/fract-ol) · [push_swap](https://github.com/kabylesystem/push_swap) · [philosophers](https://github.com/kabylesystem/philosophers) · [get_next_line](https://github.com/kabylesystem/get_next_line). Low-level, no shortcuts.
+
+**Building with AI**
 
 - **Cizo** — WhatsApp-first booking platform for hair salons · *React Native · Supabase*
 - **EntropyOS** — AI study companion for STEM students · *Next.js · OpenAI*
-- **Herald** — AI influencer persona system across platforms
-- **Ali's Döner** — adult animated short-form series, 9:16 native
 
 **Stack**
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,supabase,c,python,tailwind" alt="stack" />
+<img src="https://skillicons.dev/icons?i=c,ts,react,nextjs,nodejs,supabase,python,tailwind" alt="stack" />
 
 ---
 
@@ -33,8 +35,7 @@ Entrepreneur and [42 School](https://42.fr) student in Paris, building a multi-p
 
 <br/><br/>
 
-> *You don't write code anymore. You direct it.*
-
+[![X](https://img.shields.io/badge/X-kabylesystem-DC143C?style=flat-square&logo=x&logoColor=white)](https://x.com/kabylesystem)
 [![GitHub](https://img.shields.io/badge/GitHub-kabylesystem-DC143C?style=flat-square&logo=github&logoColor=white)](https://github.com/kabylesystem)
 
 `努力工作` · Paris → ∞
