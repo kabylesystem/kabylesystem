@@ -4,7 +4,7 @@
 
 `e/acc · maths · 42 · builder`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=DC143C&center=true&vCenter=true&width=560&lines=I+write+C+by+hand.+I+build+with+AI.;Maths+undergrad+%C2%B7+42+School+%C2%B7+Paris" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=DC143C&center=true&vCenter=true&width=560&lines=Maths+%C2%B7+low-level+C+%C2%B7+AI+products;Founder+%C2%B7+42+School+%C2%B7+Paris" alt="" />
 
 </div>
 
