@@ -4,26 +4,20 @@
 
 `e/acc · maths · 42 · builder`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=DC143C&center=true&vCenter=true&width=560&lines=Maths+%C2%B7+low-level+C+%C2%B7+AI+products;Founder+%C2%B7+42+School+%C2%B7+Paris" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=DC143C&center=true&vCenter=true&width=480&lines=Maths+%C2%B7+C+%C2%B7+AI+products;Founder+%C2%B7+42+School+%C2%B7+Paris" alt="" />
 
 </div>
 
----
-
-Final-year Maths undergrad and 42 School student in Paris. I go deep on the fundamentals — maths and low-level C, written by hand — and build AI products on top, as a founder.
+Maths undergrad and 42 School student in Paris, building AI products.
 
 **Building**
 
-- **Cizo** — WhatsApp-first booking platform for hair salons · *React Native · Supabase*
-- **EntropyOS** — AI study companion for STEM students · *Next.js · OpenAI*
-
-And the 42 cursus, in C — [fract-ol](https://github.com/kabylesystem/fract-ol) · [push_swap](https://github.com/kabylesystem/push_swap) · [philosophers](https://github.com/kabylesystem/philosophers) · [get_next_line](https://github.com/kabylesystem/get_next_line).
+- **Cizo** · WhatsApp booking for salons
+- **EntropyOS** · AI study companion
 
 **Stack**
 
 <img src="https://skillicons.dev/icons?i=c,ts,react,nextjs,nodejs,supabase,python,tailwind" alt="stack" />
-
----
 
 <div align="center">
 
