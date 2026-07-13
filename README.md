@@ -18,6 +18,6 @@ essays on hidden systems, AI, and technology as power: [blog](https://websiteper
 
 **elsewhere**
 
-[x](https://x.com/kabylesystem) · [linkedin](https://www.linkedin.com/in/nabtiylan) · signal: `bronxkid.14`
+[x](https://x.com/kabylesystem) · [linkedin](https://www.linkedin.com/in/ylan-n/) · signal: `bronxkid.14`
 
 `努力工作` · paris → ∞
