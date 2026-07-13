@@ -1,29 +1,23 @@
-<div align="center">
+# ylan · kabylesystem
 
-# kabylesystem
-
-`e/acc · maths · 42 · builder`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=DC143C&center=true&vCenter=true&width=480&lines=maths+%C2%B7+c+%C2%B7+ai+%C2%B7+open+source;builder+%C2%B7+42+school+%C2%B7+paris" alt="" />
-
-</div>
-
-maths and 42 school student in paris.
+My name is Ylan. Born and raised in the 14th district of Marseille, roots in Kabylie, living in Paris, where I study mathematics and build software at 42. I run 42 Neurotech, the student association I founded around brain-computer interfaces.
 
 **building**
 
-- **cizo** · whatsapp booking for salons
-- **entropyos** · ai study companion
+- [Socrates](https://websiteperso-eight.vercel.app/projects/socrates) · an operating system for thinking
+- [EntropyOS](https://entropyos.fr) · an AI engine that turns your courses into a complete study system
+- [tiwizi](https://websiteperso-eight.vercel.app/projects/tiwizi) · learning Kabyle on verified human content only
+- [king kusaila](https://websiteperso-eight.vercel.app/projects/king-kusaila) · my laptop, operated by voice
+- [skillscope](https://github.com/kabylesystem/skillscope) · a dashboard for Claude Code skills
 
-**stack**
+the rest, with honest write-ups: [nabtiylan.com](https://websiteperso-eight.vercel.app/projects)
 
-<img src="https://skillicons.dev/icons?i=c,ts,react,nextjs,nodejs,supabase,python,tailwind" alt="stack" />
+**writing**
 
-<div align="center">
+essays on hidden systems, AI, and technology as power: [blog](https://websiteperso-eight.vercel.app/blog) · [substack](https://substack.com/@kabylesystem)
 
-[![x](https://img.shields.io/badge/x-kabylesystem-DC143C?style=flat-square&logo=x&logoColor=white)](https://x.com/kabylesystem)
-[![github](https://img.shields.io/badge/github-kabylesystem-DC143C?style=flat-square&logo=github&logoColor=white)](https://github.com/kabylesystem)
+**elsewhere**
+
+[x](https://x.com/kabylesystem) · [linkedin](https://www.linkedin.com/in/nabtiylan) · signal: `bronxkid.14`
 
 `努力工作` · paris → ∞
-
-</div>
