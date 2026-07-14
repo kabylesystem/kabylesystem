@@ -1,15 +1,16 @@
-# kabylesystem
+```console
+$ whoami
+maths and 42 school student, paris
 
-maths and 42 school student in paris.
+$ ls ~/building
+socrates/      an operating system for thinking
+entropyos/     turns your courses into a complete study system
+tiwizi/        learning kabyle on verified human content
+king-kusaila/  a laptop operated by voice
+skillscope/    a dashboard for claude code skills
 
-**building**
-
-- [socrates](https://websiteperso-eight.vercel.app/projects/socrates) · an operating system for thinking
-- [entropyos](https://entropyos.fr) · turns your courses into a complete study system
-- [tiwizi](https://websiteperso-eight.vercel.app/projects/tiwizi) · learning kabyle on verified human content
-- [king kusaila](https://websiteperso-eight.vercel.app/projects/king-kusaila) · a laptop operated by voice
-- [skillscope](https://github.com/kabylesystem/skillscope) · a dashboard for claude code skills
+$ cat .plan
+努力工作 · paris → ∞
+```
 
 more on [nabtiylan.com](https://websiteperso-eight.vercel.app)
-
-`努力工作` · paris → ∞
