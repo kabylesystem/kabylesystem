@@ -11,5 +11,5 @@ skillscope/    a dashboard for claude code skills
 ...            and a bunch of other things, more below or on nabtiylan.com
 
 $ cat .plan
-努力工作 · paris → ∞
+paris → ∞
 ```
