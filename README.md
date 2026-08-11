@@ -15,6 +15,10 @@ maths & software engineering student in Paris. 42 (Master) + pure maths. Buildin
 
 ## Low-level & Systems
 
+<p align="center">
+  <a href="https://github.com/kabylesystem/philosophers"><img src="assets/philosophers.gif" width="640" alt="philosophers demo"></a>
+</p>
+
 | [philosophers](https://github.com/kabylesystem/philosophers) | [push_swap](https://github.com/kabylesystem/push_swap) |
 |:---|:---|
 | The dining philosophers: threads, mutexes, nobody starves. `C` | Sorting a stack with a minimal number of operations. `C` |
