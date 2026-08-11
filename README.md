@@ -1,5 +1,5 @@
 ### `$ whoami`
-maths & software engineering student in Paris — 42 (Master) + pure maths. Building at the intersection of low-level systems, hardware and AI.
+maths & software engineering student in Paris. 42 (Master) + pure maths. Building at the intersection of low-level systems, hardware and AI.
 
 # Projects
 
