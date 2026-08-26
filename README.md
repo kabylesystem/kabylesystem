@@ -20,14 +20,7 @@ Founder, building agent systems on LLMs. I run the Neurotech Club (BCI) in Paris
 | [philosophers](https://github.com/kabylesystem/philosophers) | [push_swap](https://github.com/kabylesystem/push_swap) |
 |:---:|:---:|
 | [![philosophers](assets/philosophers.gif)](https://github.com/kabylesystem/philosophers) | [![push_swap](assets/push_swap.gif)](https://github.com/kabylesystem/push_swap) |
-| The dining philosophers: threads, mutexes, nobody starves. `C` | Sorting a stack with a minimal number of operations. `C` |
-
-## Web & Tools
-
-| [piscine-exam-trainer](https://piscine-exe.vercel.app) |
-|:---:|
-| [![piscine-exam-trainer](assets/piscine-exam-trainer.gif)](https://piscine-exe.vercel.app) |
-| 42 exam simulator: 78 auto-graded C exercises, in-browser compile. `Shell` |
+| The dining philosophers: 5 threads, forks under mutex, nobody starves. `C` | Sorting a stack with a minimal number of operations, here 30 values in 101 moves. `C` |
 
 ---
 
@@ -37,4 +30,4 @@ Founder, building agent systems on LLMs. I run the Neurotech Club (BCI) in Paris
 ### Tools
 [![My Tools](https://skillicons.dev/icons?i=linux,git,docker,vscode,vercel,postgres,vim)](https://skillicons.dev)
 
-<sub>More going up here as each one gets its own demo: king-kusaila (a laptop run by voice), tiwizi, EntropyOS, miniRT, Echo, alidoner-bot. Everything else lives at <a href="https://nabtiylan.com">nabtiylan.com</a>.</sub>
+<sub>More going up here as each one gets its own demo: king-kusaila (a laptop run by voice), tiwizi, EntropyOS, miniRT, Echo, piscine-exam-trainer. Everything else lives at <a href="https://nabtiylan.com">nabtiylan.com</a>.</sub>
