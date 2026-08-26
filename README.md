@@ -17,10 +17,15 @@ Founder, building agent systems on LLMs. I run the Neurotech Club (BCI) in Paris
 
 ## Low-level & Systems
 
-| [philosophers](https://github.com/kabylesystem/philosophers) | [push_swap](https://github.com/kabylesystem/push_swap) |
-|:---:|:---:|
-| [![philosophers](assets/philosophers.gif)](https://github.com/kabylesystem/philosophers) | [![push_swap](assets/push_swap.gif)](https://github.com/kabylesystem/push_swap) |
-| The dining philosophers: 5 threads, forks under mutex, nobody starves. `C` | Sorting a stack with a minimal number of operations, here 30 values in 101 moves. `C` |
+| [push_swap](https://github.com/kabylesystem/push_swap) |
+|:---:|
+| [![push_swap](assets/push_swap.gif)](https://github.com/kabylesystem/push_swap) |
+| Sorting a stack with the fewest moves possible, here 30 values in 101 operations, drawn straight from the real output. `C` |
+
+| [philosophers](https://github.com/kabylesystem/philosophers) |
+|:---:|
+| [![philosophers](assets/philosophers.gif)](https://github.com/kabylesystem/philosophers) |
+| The dining philosophers: 5 threads, forks under mutex, nobody starves and nothing deadlocks. `C` |
 
 ---
 
