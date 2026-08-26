@@ -8,24 +8,24 @@ Founder, building agent systems on LLMs. I run the Neurotech Club (BCI) in Paris
 | [senscritique-mcp](https://github.com/kabylesystem/senscritique-mcp) [![npm](https://img.shields.io/npm/v/senscritique-mcp?logo=npm&label=)](https://www.npmjs.com/package/senscritique-mcp) |
 |:---:|
 | [![senscritique-mcp](assets/senscritique-mcp.gif)](https://github.com/kabylesystem/senscritique-mcp) |
-| An MCP server for SensCritique: 17 tools an AI can call. Public reads work with no account, and once you log in it can rate a film, mark it watched, or save a review draft. Ships an HTTP API too, published on npm. `TypeScript` |
+| I wrote my own MCP server so an AI can use SensCritique the way I do: 17 tools it can call. Reading takes no account at all, and once I log in it rates a film, marks it watched, or saves a review draft. It ships an HTTP API too, and it is published on npm. `TypeScript` |
 
 | [skillscope](https://github.com/kabylesystem/skillscope) |
 |:---:|
 | [![skillscope](assets/skillscope.gif)](https://github.com/kabylesystem/skillscope) |
-| Your Claude Code skill bank, with receipts: every skill on the machine, which ones the agent actually triggers, which ones are dead weight. Local-first dashboard. `TypeScript` |
+| I built this to see my own agent setup: every skill on the machine, which ones Claude actually triggers, which ones are dead weight. Local-first dashboard, 218 skills under watch here. `TypeScript` |
 
 ## Low-level & Systems
 
 | [push_swap](https://github.com/kabylesystem/push_swap) |
 |:---:|
 | [![push_swap](assets/push_swap.gif)](https://github.com/kabylesystem/push_swap) |
-| Sorting a stack with the fewest moves possible, here 30 values in 101 operations, drawn straight from the real output. `C` |
+| My sorting algorithm for 42, pushed to the fewest moves I could get: 30 values in 101 operations. The bars replay its real output, one frame per move. `C` |
 
 | [philosophers](https://github.com/kabylesystem/philosophers) |
 |:---:|
 | [![philosophers](assets/philosophers.gif)](https://github.com/kabylesystem/philosophers) |
-| The dining philosophers: 5 threads, forks under mutex, nobody starves and nothing deadlocks. `C` |
+| My take on the dining philosophers: 5 threads, forks under mutex, nobody starves and nothing deadlocks. The states you see are the program talking. `C` |
 
 ---
 
