@@ -1,5 +1,5 @@
 ### `$ whoami`
-Founder, building agent systems on LLMs. I run the Neurotech Club (BCI) in Paris, do the systems and low-level work at 42, and study mathematics and physics on my own. Drawn to anything that runs close to the metal: agents, hardware, physical AI.
+Founder, building agent systems on LLMs. I run the Neurotech Club (BCI) in Paris, do the systems and low-level work at 42, and study mathematics and physics. Drawn to anything that runs close to the metal: agents, hardware, physical AI.
 
 # Projects
 
