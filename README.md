@@ -20,7 +20,7 @@ I build agent systems and products. Neurotech Club (BCI) in Paris; mathematics, 
 
 ## Low-level & Systems
 
-| [Stack Sorting](https://github.com/kabylesystem/push_swap) | [Dining Philosophers](https://github.com/kabylesystem/philosophers) |
+| [Stack Sorting](https://github.com/kabylesystem/push_swap) | [Philosophers](https://github.com/kabylesystem/philosophers) |
 |:---:|:---:|
 | [![push_swap sorting visualization](assets/stack-sorting.gif)](https://github.com/kabylesystem/push_swap) | [![philosophers thread states](assets/dining-philosophers.gif)](https://github.com/kabylesystem/philosophers) |
 | 200 values sorted in 1,497 moves. `C` | Five threads sharing five forks. `C` |
