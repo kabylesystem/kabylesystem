@@ -6,17 +6,37 @@ I build agent systems and products. Neurotech Club (BCI) in Paris; mathematics, 
 
 ## Products
 
-| [Cizo](https://github.com/kabylesystem/cizo) | [EntropyOS](https://github.com/kabylesystem/entropyos) |
-|:---:|:---:|
-| [![Cizo CRM filter, client history and agenda](assets/cizo-crm.gif)](https://github.com/kabylesystem/cizo) | [![EntropyOS import, exercise plan and adaptive revision](assets/entropy-workflow.gif)](https://github.com/kabylesystem/entropyos) |
-| CRM, VIP filters and salon agenda. Demo data. `React Native` | PDF import, exercise plans and adaptive revision. Demo data. `Next.js` |
+<table width="100%">
+  <tr>
+    <th width="50%" align="center"><a href="https://github.com/kabylesystem/cizo">Cizo</a></th>
+    <th width="50%" align="center"><a href="https://github.com/kabylesystem/entropyos">EntropyOS</a></th>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><a href="https://github.com/kabylesystem/cizo"><img src="assets/cizo-crm.gif" alt="Cizo CRM filter, client history and agenda"></a></td>
+    <td width="50%" align="center"><a href="https://github.com/kabylesystem/entropyos"><img src="assets/entropy-workflow.gif" alt="EntropyOS import, exercise plan and adaptive revision"></a></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">CRM, VIP filters and salon agenda. Demo data. <code>React Native</code></td>
+    <td width="50%" align="center">PDF import, exercise plans and adaptive revision. Demo data. <code>Next.js</code></td>
+  </tr>
+</table>
 
 ## Agents & MCP
 
-| [senscritique-mcp](https://github.com/kabylesystem/senscritique-mcp) | [skillscope](https://github.com/kabylesystem/skillscope) |
-|:---:|:---:|
-| [![SensCritique MCP searching Akira](assets/senscritique-mcp-query.gif)](https://github.com/kabylesystem/senscritique-mcp) | [![skillscope dashboard](assets/skillscope-card.gif)](https://github.com/kabylesystem/skillscope) |
-| 17 tools to use SensCritique through an AI. `TypeScript` | See which agent skills actually get used. `TypeScript` |
+<table width="100%">
+  <tr>
+    <th width="50%" align="center"><a href="https://github.com/kabylesystem/senscritique-mcp">senscritique-mcp</a></th>
+    <th width="50%" align="center"><a href="https://github.com/kabylesystem/skillscope">skillscope</a></th>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><a href="https://github.com/kabylesystem/senscritique-mcp"><img src="assets/senscritique-mcp-query.gif" alt="SensCritique MCP searching Akira"></a></td>
+    <td width="50%" align="center"><a href="https://github.com/kabylesystem/skillscope"><img src="assets/skillscope-card.gif" alt="skillscope dashboard"></a></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">17 tools to use SensCritique through an AI. <code>TypeScript</code></td>
+    <td width="50%" align="center">See which agent skills actually get used. <code>TypeScript</code></td>
+  </tr>
+</table>
 
 ## Low-level & Systems
 
