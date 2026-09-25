@@ -15,7 +15,7 @@ I build agent systems and products. Neurotech Club (BCI) in Paris; mathematics, 
 
 | [senscritique-mcp](https://github.com/kabylesystem/senscritique-mcp) | [skillscope](https://github.com/kabylesystem/skillscope) |
 |:---:|:---:|
-| [![SensCritique MCP searching Akira](assets/senscritique-mcp-search.gif)](https://github.com/kabylesystem/senscritique-mcp) | [![skillscope dashboard](assets/skillscope.gif)](https://github.com/kabylesystem/skillscope) |
+| [![SensCritique MCP searching Akira](assets/senscritique-mcp-query.gif)](https://github.com/kabylesystem/senscritique-mcp) | [![skillscope dashboard](assets/skillscope.gif)](https://github.com/kabylesystem/skillscope) |
 | 17 tools to use SensCritique through an AI. `TypeScript` | See which agent skills actually get used. `TypeScript` |
 
 ## Low-level & Systems
