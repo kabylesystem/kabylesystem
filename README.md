@@ -20,10 +20,20 @@ I build agent systems and products. Neurotech Club (BCI) in Paris; mathematics, 
 
 ## Low-level & Systems
 
-| [Stack Sorting](https://github.com/kabylesystem/push_swap) | [Philosophers](https://github.com/kabylesystem/philosophers) |
-|:---:|:---:|
-| [![push_swap sorting visualization](assets/stack-sorting.gif)](https://github.com/kabylesystem/push_swap) | [![philosophers thread states](assets/dining-philosophers.gif)](https://github.com/kabylesystem/philosophers) |
-| 200 values. Two stacks. `C` | Five threads. Five forks. `C` |
+<table width="100%">
+  <tr>
+    <th width="50%" align="center"><a href="https://github.com/kabylesystem/push_swap">Stack Sorting</a></th>
+    <th width="50%" align="center"><a href="https://github.com/kabylesystem/philosophers">Philosophers</a></th>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><a href="https://github.com/kabylesystem/push_swap"><img src="assets/stack-sorting.gif" alt="Stack Sorting animation"></a></td>
+    <td width="50%" align="center"><a href="https://github.com/kabylesystem/philosophers"><img src="assets/dining-philosophers.gif" alt="Philosophers animation"></a></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">200 values. Two stacks. <code>C</code></td>
+    <td width="50%" align="center">Five threads. Five forks. <code>C</code></td>
+  </tr>
+</table>
 
 Sorting visualization inspired by [o-reo’s push_swap visualizer](https://github.com/o-reo/push_swap_visualizer).
 
