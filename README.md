@@ -6,9 +6,9 @@ I build agent systems and products. Neurotech Club (BCI) in Paris; mathematics, 
 
 ## Products
 
-| Cizo | [EntropyOS](https://www.entropyos.fr) |
+| [Cizo](https://github.com/kabylesystem/cizo) | [EntropyOS](https://github.com/kabylesystem/entropyos) |
 |:---:|:---:|
-| ![Cizo agenda and CRM](assets/cizo.gif) | [![EntropyOS study planner](assets/entropy.gif)](https://www.entropyos.fr) |
+| [![Cizo agenda and CRM](assets/cizo.gif)](https://github.com/kabylesystem/cizo) | [![EntropyOS study planner](assets/entropy.gif)](https://github.com/kabylesystem/entropyos) |
 | Salon agenda, clients and follow-ups. `React Native` | Study planning from STEM exercises. `Next.js` |
 
 ## Agents & MCP
